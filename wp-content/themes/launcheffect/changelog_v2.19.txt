@@ -1,0 +1,3 @@
+Launch Effect v2.19 Change Log
+
+[Fix] Eliminated remaining uses of short form PHP open tags
